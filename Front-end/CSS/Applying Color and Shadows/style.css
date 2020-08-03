@@ -1,0 +1,17 @@
+.container{
+   /* background-color: lightblue;*/
+    background: rgb(0, 244, 255);
+    box-shadow: 2px 2px grey;
+}
+
+h1{
+    color: brown;
+    text-shadow: 1px 2px 3px orangered;
+}
+p{
+    color: #ff1f00;
+    text-shadow: 1px 2px 3px grey;
+
+}
+
+
