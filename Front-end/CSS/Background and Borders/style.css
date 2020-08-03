@@ -1,0 +1,13 @@
+body{
+    background-image: url(zebra.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color:wheat;
+}
+.borderImg{
+    width:200px;
+    height:150px;
+    border: 2px dashed red;
+}
