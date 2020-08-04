@@ -1,0 +1,40 @@
+/* Element selector */
+body{
+    background-color: #444;
+}
+/*Text formatting */
+a{
+    color: red;
+    text-decoration: none;
+    font-size: 1em;
+    padding-left:10px;
+    text-transform: uppercase;
+}
+p{
+    font-size: 1.5em;
+    text-decoration: underline;
+    word-spacing: 0.2rem;
+    letter-spacing: 0.1rem;
+}
+
+/* Element selector vs Class selector vs id selector*/ 
+ .header{
+    color:Yellow;
+    text-align: right;
+    text-decoration: none;
+ }
+
+[id="identity"]{
+    color:green;
+    text-align: center;
+    text-decoration: none;
+}
+
+h2{
+    color: cyan;
+    text-align: left;
+    text-decoration: underline;
+}
+
+
+
