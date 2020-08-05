@@ -1,0 +1,24 @@
+body{
+    background-color: #444;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    border: 5px solid black;
+    padding: 5px; /*It create space within an element.*/
+    margin: 10px 0px 2px 10px; /* It create otuside the element.*/
+}
+.btn{
+    border-radius: 20%;
+    border: none;
+    padding: 5px;
+    margin-left: 10px;
+    background-color: black;
+    color:red;
+}
+.btn:hover{
+    width: 70px;
+    height:25px;
+    background-color: green;
+    color: yellow;
+}
