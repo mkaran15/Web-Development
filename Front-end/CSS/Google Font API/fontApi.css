@@ -1,0 +1,18 @@
+body{
+    background-color: #444;
+    color: wheat;
+}
+h1{
+    font-family: 'Noto Sans KR', sans-serif;
+    text-align: center;
+}
+p{
+    font-family: 'Recursive', sans-serif;
+    font-size: 1rem;
+}
+.container p{
+    font-family: 'Ubuntu', sans-serif;
+    border: 2px solid cyan;
+    padding: 10px;
+}
+
