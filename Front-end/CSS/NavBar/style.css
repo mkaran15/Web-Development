@@ -84,10 +84,5 @@ ul.topnav li.dropdownIcon{
         display: block;
         text-align: left;
     }
-    ul.topnav.responsive li a:hover{
-        color: #fff;
-        background-color: blue;
-        
-    }
 
 }
